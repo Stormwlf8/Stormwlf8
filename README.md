@@ -1,4 +1,10 @@
-### Hi there 👋
+### :zap: Stormi (Jackie) :zap:
+**She/her/hers or whatever**
+ > This is mostly used for school for now.
+ 
+###### <sub> _Do my little dancey dance_ </sub>
+<sup> :paw_prints: *I have big dreams to make an MMO... but for now I shall do small projects* :paw_prints: </sup>
+
 
 <!--
 **Stormwlf8/Stormwlf8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
