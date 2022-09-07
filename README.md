@@ -5,7 +5,7 @@
 ###### <sub> _Do my little dancey dance_ </sub>
 <sup> :paw_prints: *I have big dreams to make an MMO... but for now I shall do small projects* :paw_prints: </sup>
 
-woOooOo
+I'm an artist by trade but I like to learn code. Hope to take both these skills and make use of them.
 
 
 <!--
